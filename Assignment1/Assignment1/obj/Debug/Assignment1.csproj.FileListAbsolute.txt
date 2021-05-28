@@ -1,0 +1,7 @@
+C:\Users\Riyad\Desktop\School\Semester 4\.Net & C#\Assignment\A1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Riyad\Desktop\School\Semester 4\.Net & C#\Assignment\A1\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Riyad\Desktop\School\Semester 4\.Net & C#\Assignment\A1\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Riyad\Desktop\School\Semester 4\.Net & C#\Assignment\A1\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\Riyad\Desktop\School\Semester 4\.Net & C#\Assignment\A1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Riyad\Desktop\School\Semester 4\.Net & C#\Assignment\A1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Riyad\Desktop\School\Semester 4\.Net & C#\Assignment\A1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
